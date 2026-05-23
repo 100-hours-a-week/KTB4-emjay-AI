@@ -1,0 +1,11 @@
+# virtual env
+.venv/
+
+# python cache
+__pycache__/
+
+# sqlite
+*.db
+
+# macOS
+.DS_Store
